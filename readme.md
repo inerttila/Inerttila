@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" height="270px" width="450px" alt="GIF" src="https://skaitech.al/wp-content/uploads/2024/01/Screen_Recording_20240110_150933_Chrome.mp4" />
+<img align="right" height="270px" width="450px"  src="https://skaitech.al/wp-content/uploads/2024/01/Screen_Recording_20240110_150933_Chrome.mp4" />
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
