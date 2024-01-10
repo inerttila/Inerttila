@@ -26,10 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
+Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development
 <!--Intro end-->
 
 <!--h1 without bottom border-->
