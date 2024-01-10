@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,7 +7,6 @@
     <summary><h1 style="display: inline-block"></h1></summary>
   </ul>
 </div>
-
 
 <!--- snake -->
 <div align="center">
@@ -37,6 +35,13 @@
   </a>
 </p>
 
+<!-- Video Section -->
+<div align="center">
+  <video width="80%" controls>
+    <source src="https://skaitech.al/wp-content/uploads/2024/01/Screen_Recording_20240110_150933_Chrome.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
