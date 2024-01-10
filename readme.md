@@ -26,7 +26,8 @@
 
 
 <!--Intro start-->
-          Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development
+- Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development
+
 <!--Intro end-->
 
 <!--h1 without bottom border-->
