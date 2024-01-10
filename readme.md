@@ -16,6 +16,12 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+  <img  src="https://skaitech.al/wp-content/uploads/2023/08/IMG_5374-scaled.jpg"
+       alt="snake" /></a>
+</div>
+
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -47,7 +53,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contact Me</h2></summary>
   </ul>
 </div>
 
