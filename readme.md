@@ -8,7 +8,7 @@
     Your browser does not support the video tag.
   </video>
 </div>
-Click [here](https://skaitech.al/wp-content/uploads/2024/01/Screen_Recording_20240110_150933_Chrome.mp4) to watch the demo video.
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
