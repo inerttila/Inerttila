@@ -19,15 +19,9 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development</h2></summary>
   </ul>
 </div>
-
-
-<!--Intro start-->
-- Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development
-
-<!--Intro end-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
