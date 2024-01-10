@@ -16,15 +16,6 @@
        alt="snake" /></a>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://skaitech.al/wp-content/uploads/2024/01/Screen_Recording_20240110_122943_Chrome.mp4"
-       alt="snake" /></a>
-</div>
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
