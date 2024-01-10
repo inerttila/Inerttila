@@ -50,6 +50,13 @@
 <a href="https://al.linkedin.com/in/inerttila" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
+<p align="center">
+    <a href="mailto:your.email@example.com" target="blank">
+        <img align="center" src="https://icons8.com/icon/12580/email" alt="email" height="50" width="50" />
+    </a>
+</p>
+
+
 
 <!--profile visit count-->
 <div align="center">
