@@ -15,6 +15,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://skaitech.al/wp-content/uploads/2023/08/IMG_5374-scaled.jpg
+)"
 
 
 <!--h2 without bottom border-->
