@@ -1,6 +1,30 @@
 <!-- Add your image here with size -->
-<img src="https://skaitech.al/wp-content/uploads/2023/09/6bd76757e0f2c43867d582aa191ae836.png" alt="Mountain Lake" width="300" height="200">
+<!-- Image Gallery -->
+<div align="center">
+  <h2>My Cool Image Gallery</h2>
 
+  <!-- Image 1 -->
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 1" width="200" height="150" style="margin: 10px;">
+
+  <!-- Add the rest of your images similarly -->
+  <!-- Image 2 -->
+  <img src="https://example.com/image2.jpg" alt="Image 2" width="200" height="150" style="margin: 10px;">
+
+  <!-- Image 3 -->
+  <img src="https://example.com/image3.jpg" alt="Image 3" width="200" height="150" style="margin: 10px;">
+
+  <!-- Image 4 -->
+  <img src="https://example.com/image4.jpg" alt="Image 4" width="200" height="150" style="margin: 10px;">
+
+  <!-- Image 5 -->
+  <img src="https://example.com/image5.jpg" alt="Image 5" width="200" height="150" style="margin: 10px;">
+
+  <!-- Image 6 -->
+  <img src="https://example.com/image6.jpg" alt="Image 6" width="200" height="150" style="margin: 10px;">
+
+  <!-- Image 7 -->
+  <img src="https://example.com/image7.jpg" alt="Image 7" width="200" height="150" style="margin: 10px;">
+</div>
 
 
 <!--horizontal divider(gradiant)-->
