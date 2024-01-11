@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,vue,css,github,html,mysql,nextjs,react,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ai,vue,css,github,html,mysql,nextjs,react,ts,vscode&perline=19" />
   </a>
 </p>
 
