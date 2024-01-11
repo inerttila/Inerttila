@@ -51,6 +51,11 @@
 </p>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,mysql,nextjs,react,ts,vscode&perline=14" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
