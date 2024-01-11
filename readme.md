@@ -1,34 +1,4 @@
-<!-- Add your image here with size -->
-<!-- Image Gallery -->
-<div align="center">
-  <h2>My Cool Image Gallery</h2>
 
-  <!-- Image 1 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 1" width="200" height="150" style="margin: 10px;">
-
-  <!-- Add the rest of your images similarly -->
-  <!-- Image 2 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173223.png" alt="Image 2" width="200" height="150" style="margin: 10px;">
-
-  <!-- Image 3 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173330.png" alt="Image 3" width="200" height="150" style="margin: 10px;">
-
-  <!-- Image 4 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173358.png" alt="Image 4" width="200" height="150" style="margin: 10px;">
-
-  <!-- Image 5 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173343.png" alt="Image 5" width="200" height="150" style="margin: 10px;">
-
-  <!-- Image 6 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173407.png" alt="Image 6" width="200" height="150" style="margin: 10px;">
-  
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 8" width="200" height="150" style="margin: 10px;">
-
-  <!-- Image 7 -->
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173429.png" alt="Image 7" width="200" height="150" style="margin: 10px;">
-
-
-</div>
 
 
 <!--horizontal divider(gradiant)-->
@@ -51,6 +21,18 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development</h2></summary>
   </ul>
+</div>
+
+<!-- Image Gallery -->
+<div align="center">
+  <h2>Ongoing Project Showcase</h2>
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173223.png" alt="Image 2" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173330.png" alt="Image 3" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173358.png" alt="Image 4" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173343.png" alt="Image 5" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173407.png" alt="Image 6" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 8" width="200" height="150" style="margin: 10px;">
+  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173429.png" alt="Image 7" width="200" height="150" style="margin: 10px;">
 </div>
 
 <!--h1 without bottom border-->
