@@ -1,4 +1,5 @@
-![Mountain Lake](https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph)
+<!-- Add your image here with size -->
+<img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph" alt="Mountain Lake" width="300" height="200">
 
 
 
