@@ -1,5 +1,5 @@
 <!-- Add your image here with size -->
-<img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704931200&semt=sph" alt="Mountain Lake" width="300" height="200">
+<img src="https://skaitech.al/wp-content/uploads/2023/09/6bd76757e0f2c43867d582aa191ae836.png" alt="Mountain Lake" width="300" height="200">
 
 
 
