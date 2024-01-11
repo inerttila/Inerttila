@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-<!-- Image Gallery -->
+<!-- Image Gallery 
 <div align="center">
   <h2>Ongoing Project Showcase</h2>
   <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173223.png" alt="Image 2" width="200" height="150" style="margin: 10px;">
@@ -34,6 +34,7 @@
   <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 8" width="200" height="150" style="margin: 10px;">
   <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173429.png" alt="Image 7" width="200" height="150" style="margin: 10px;">
 </div>
+-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
