@@ -10,11 +10,11 @@
   </ul>
 </div>
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/inerttila/Inerttila/blob/main/github_snake.svg"
        alt="snake" /></a>
-</div>
+</div>-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
