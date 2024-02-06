@@ -57,13 +57,13 @@
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+<!-- Connect with me 
+<!--h2 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Contact Me</h2></summary>
   </ul>
-</div>
+</div>-->
 
 <!--icons and links
 <p align="center">
