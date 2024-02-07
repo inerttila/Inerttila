@@ -21,12 +21,13 @@
   </ul>
 </div>
 
-<!--h1 without bottom border
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+    <summary><h2 style="display: inline-block; border-bottom: none;">My Portfolio</h2></summary>
+    <li><a href="https://inerttila.github.io/Portfolio/">Visit My Portfolio</a></li>
   </ul>
-</div>-->
+</div>
+
 
 <!--tech stack icons-->
 <p align="center">
@@ -42,9 +43,6 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://inerttila.github.io/Portfolio" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p> 
 
 <!--profile visit count-->
 <div align="center">
