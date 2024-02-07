@@ -21,19 +21,6 @@
   </ul>
 </div>
 
-<!-- Image Gallery 
-<div align="center">
-  <h2>Ongoing Project Showcase</h2>
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173223.png" alt="Image 2" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173330.png" alt="Image 3" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173358.png" alt="Image 4" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173343.png" alt="Image 5" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173407.png" alt="Image 6" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173418.png" alt="Image 8" width="200" height="150" style="margin: 10px;">
-  <img src="https://skaitech.al/wp-content/uploads/2024/01/Screenshot-2024-01-11-173429.png" alt="Image 7" width="200" height="150" style="margin: 10px;">
-</div>
--->
-
 <!--h1 without bottom border
 <div id="user-content-toc">
   <ul align="center">
@@ -55,13 +42,14 @@
   </a>
 </p>
 
-<!-- Connect with me 
-<!--h2 without bottom border
+ My Ongoing project 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contact Me</h2></summary>
+    <summary><h2 style="display: inline-block; border-bottom: none;">Skaitech Cloud</h2></summary>
+    <li><a href="https://cloud.skaitech.al/login/">Login to Skaitech Cloud</a></li>
   </ul>
-</div>-->
+</div>
+
 
 <!--icons and links
 <p align="center">
