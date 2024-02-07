@@ -37,8 +37,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block; border-bottom: none;">My Portfolio</h2></summary>
-    <li><a href="https://inerttila.github.io/Portfolio/">Visit My Portfolio</a></li>
+    <li><a href="https://inerttila.github.io/Portfolio/">My Portfolio</a></li>
   </ul>
 </div>
 
