@@ -21,14 +21,6 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; border-bottom: none;">My Portfolio</h2></summary>
-    <li><a href="https://inerttila.github.io/Portfolio/">Visit My Portfolio</a></li>
-  </ul>
-</div>
-
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,10 +35,16 @@
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block; border-bottom: none;">My Portfolio</h2></summary>
+    <li><a href="https://inerttila.github.io/Portfolio/">Visit My Portfolio</a></li>
+  </ul>
+</div>
+
 
 <!--profile visit count-->
 <div align="center">
-    
 </div>
 
 <!--horizontal divider(gradiant)-->
