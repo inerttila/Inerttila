@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer | Python, JavaScript, Django | Docker Enthusiast | Cloud Computing | Web Development</h2></summary>
+    <summary><h2 style="display: inline-block">Software Developer | Python, Django, JavaScript | Docker | Cloud Computing | Web Development</h2></summary>
   </ul>
 </div>
 
