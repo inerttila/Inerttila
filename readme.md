@@ -22,7 +22,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <li><a href="https://inerttila.github.io/Portfolio/"> Some of My Works </a></li>
+    <li><a href="https://inerttila.github.io/Me/"> Some of My Works </a></li>
   </ul>
 </div>
 
