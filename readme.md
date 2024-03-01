@@ -22,14 +22,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <li><a href="https://inerttila.github.io/Me/"> Some of My Works </a></li>
+    <li><a href="https://inert.netlify.app/"> Software Development Services </a></li>
   </ul>
 </div>
 
-
 <div id="user-content-toc">
   <ul align="center">
-    <li><a href="https://inert.netlify.app/"> Software Development Services </a></li>
+    <li><a href="https://inerttila.github.io/Me/"> Some of My Works </a></li>
   </ul>
 </div>
 
