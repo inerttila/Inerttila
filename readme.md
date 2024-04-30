@@ -22,7 +22,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <li><a href="https://inert.netlify.app/"> Software Development Services </a></li>
+    <li><a href="dev-software.netlify.app"> Software Development Services </a></li>
   </ul>
 </div>
 
