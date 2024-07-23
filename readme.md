@@ -15,6 +15,16 @@
   </p>
 </div>
 
+  <p align="center">
+    My Ongoing Projects
+    <br />
+    <br />
+    <a href="https://cloud.skaitech.al/3dquoteviewer"> 3dquoteviewer </a>
+    ·
+    <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
+  </p>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,docker,django,linux,bootstrap,c,cpp" width="300" />
