@@ -19,9 +19,9 @@
     My Ongoing Projects
     <br />
     <br />
-    <a href="https://cloud.skaitech.al/3dquoteviewer"> 3dquoteviewer </a>
+        <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
     ·
-    <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
+    <a href="https://cloud.skaitech.al/3dquoteviewer"> 3dquoteviewer </a>
   </p>
 </div>
 
