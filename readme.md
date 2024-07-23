@@ -21,7 +21,7 @@
     <br />
         <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
     ·
-    <a href="https://cloud.skaitech.al/3dquoteviewer"> 3dquoteviewer </a>
+    <a href="https://cloud.skaitech.al/3dquoteviewer"> 3D Quote Viewer </a>
   </p>
 </div>
 
