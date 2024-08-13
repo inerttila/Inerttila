@@ -4,7 +4,7 @@
 
 <table align="center" border="0" cellpadding="20" cellspacing="0">
   <tr>
-    <td align="center" style="background-color:white; border: 2px solid white;">
+    <td align="center" style="background-color:white; border: 10px solid white;">
 
   <div align="center">
         <h3 align="center">Software Developer</h3>
