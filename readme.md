@@ -26,7 +26,7 @@
         <a href="https://cloud.skaitech.al/3dquoteviewer"> 3D Quote Viewer </a>
       </p>
 
-  <p align="center">
+  <!-- <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,js,docker,django,linux,bootstrap,c,cpp" width="300" />
         </a>
@@ -36,7 +36,7 @@
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
         </a>
-      </p>
+      </p>  -->
 
   </td>
   </tr>
