@@ -3,8 +3,7 @@
 <meta name="author" content="Inert Tila" />
 <table align="center" border="0" cellpadding="20" cellspacing="0">
   <tr>
-    <td align="center" style="background-color:#f7f7f7; border: 4px solid white;">
-      
+    
 <br />
 <div align="center">
 
@@ -19,8 +18,8 @@
 
 </div>
 
-  <tr>
-    <td align="center" style="background-color:white; border: 2px solid white;">
+
+   <td align="center" style="background-color:white; border: 2px solid white;">
       <p align="center">
         My Ongoing Projects
         <br />
@@ -29,8 +28,8 @@
         ·
         <a href="https://cloud.skaitech.al/3dquoteviewer"> 3D Quote Viewer </a>
       </p>
-    </td>
-  </tr>
+   </td>
+
 
 <br />
 <p align="center">
@@ -44,6 +43,5 @@
     <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
   </a>
 </p>
-    </td>
   </tr>
 </table>
