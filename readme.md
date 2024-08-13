@@ -2,7 +2,7 @@
 <meta name="copyright" content="Inert Tila" />
 <meta name="author" content="Inert Tila" />
 
-<table align="center" border="0" cellpadding="20" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" ">
 
