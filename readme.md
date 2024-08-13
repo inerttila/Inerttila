@@ -1,6 +1,7 @@
 <meta property="og:url" content="https://al.linkedin.com/in/inerttila" />
 <meta name="copyright" content="Inert Tila" />
 <meta name="author" content="Inert Tila" />
+<table align="center" border="0" cellpadding="20" cellspacing="0">
 
 <br />
 <div align="center">
@@ -16,7 +17,6 @@
 
 </div>
 
-<table align="center" border="0" cellpadding="20" cellspacing="0">
   <tr>
     <td align="center" style="background-color:white; border: 2px solid white;">
       <p align="center">
@@ -29,7 +29,6 @@
       </p>
     </td>
   </tr>
-</table>
 
 <br />
 <p align="center">
@@ -43,3 +42,5 @@
     <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
   </a>
 </p>
+</table>
+
