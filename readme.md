@@ -37,6 +37,9 @@
           <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
         </a>
       </p>  -->
+      
+  <br />
+  <br />
 
   </td>
   </tr>
