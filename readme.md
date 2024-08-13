@@ -2,7 +2,9 @@
 <meta name="copyright" content="Inert Tila" />
 <meta name="author" content="Inert Tila" />
 <table align="center" border="0" cellpadding="20" cellspacing="0">
-
+  <tr>
+    <td align="center" style="background-color:#f7f7f7; border: 4px solid white;">
+      
 <br />
 <div align="center">
 
@@ -42,5 +44,6 @@
     <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
   </a>
 </p>
+    </td>
+  </tr>
 </table>
-
