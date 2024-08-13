@@ -1,10 +1,6 @@
-<meta property="og:url" content="https://al.linkedin.com/in/inerttila" />
-<meta name="copyright" content="Inert Tila" />
-<meta name="author" content="Inert Tila" />
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" ">
+    <td align="center">
 
   <div align="center">
         <h3 align="center">Software Developer</h3>
@@ -15,7 +11,7 @@
           <br />
           <a href="https://inert.netlify.app/"> Software Development Services </a>
         </p>
-      </div>
+  </div>
 
   <p align="center">
         My Ongoing Projects
@@ -24,21 +20,8 @@
         <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
         ·
         <a href="https://cloud.skaitech.al/3dquoteviewer"> 3D Quote Viewer </a>
-      </p>
-
-  <!-- <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,js,docker,django,linux,bootstrap,c,cpp" width="300" />
-        </a>
-      </p>
-
-  <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=wordpress,vue,css,github,html,mysql,nextjs,react,ts,vscode" width="300" />
-        </a>
-      </p>  -->
-      
-  <br />
-  </td>
+  </p>
+      <br />
+    </td>
   </tr>
 </table>
