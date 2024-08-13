@@ -1,3 +1,8 @@
+<meta property="og:url" content="https://al.linkedin.com/in/inerttila" />
+<meta name="copyright" content="Inert Tila" />
+<meta name="author" content="Inert Tila" />
+<meta name="description" content=" I am a Software Developer , with expertise in technologies such as Python and frameworks like Django, FastAPI and Flask. I also have skills in frontend development using JavaScript and Node.js. My passion lies in creating high performance applications by utilizing Docker and Linux for deployment. I have hands on experience in designing e commerce solutions using Medusa with an emphasis on enhancing SEO for improved visibility and performance. I am currently exploring opportunities, within the tech industry.">
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
