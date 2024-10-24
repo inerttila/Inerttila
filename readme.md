@@ -25,6 +25,8 @@
         <a href="https://cloud.skaitech.al/login/"> Skaitech Cloud </a>
         ·
         <a href="https://cloud.skaitech.al/3dquoteviewer"> 3D Quote Viewer </a>
+        ·
+        <a href="https://github.com/inerttila/Object_Detection_YoloV5"> Object-Detection-Yolov5 </a>
   </p>
       <br />
     </td>
