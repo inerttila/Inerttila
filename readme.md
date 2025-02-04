@@ -11,7 +11,7 @@
         <h3 align="center">Software Developer</h3>
 
   <p align="center">
-          Self-taught and best practices-oriented Software Developer | 2+ years of experience in front-end and back-end developmen.
+          Self-taught and best practices-oriented Software Developer | 2+ years of experience in front-end and back-end development.
           <br />
           <br />
           <a href="https://inert.netlify.app/"> Software Development Services </a>
