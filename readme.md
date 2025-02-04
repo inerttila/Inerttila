@@ -1,7 +1,7 @@
 <meta property="og:url" content="https://al.linkedin.com/in/inerttila" />
 <meta name="copyright" content="Inert Tila" />
 <meta name="author" content="Inert Tila" />
-<meta name="description" content=" I am a Software Developer , with expertise in technologies such as Python and frameworks like Django, FastAPI and Flask. I also have skills in frontend development using JavaScript and Node.js. My passion lies in creating high performance applications by utilizing Docker and Linux for deployment. I have hands on experience in designing e commerce solutions using Medusa with an emphasis on enhancing SEO for improved visibility and performance. I am currently exploring opportunities, within the tech industry.">
+<meta name="description" content=" Self-taught and best practices-oriented Software Developer | 2+ years of experience in front-end and back-end development, with expertise in HTML, CSS, JavaScript, React, Node.js, Python, and frameworks such as Django, FastAPI, and Flask. Skilled in Docker and Linux for high-performance deployments. Hands-on experience in designing e-commerce solutions with Medusa, with a focus on SEO for enhanced performance. Always seeking new opportunities.">
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -11,7 +11,7 @@
         <h3 align="center">Software Developer</h3>
 
   <p align="center">
-          Creating innovative and efficient solutions. Explore my projects below.
+          Self-taught and best practices-oriented Software Developer | 2+ years of experience in front-end and back-end developmen.
           <br />
           <br />
           <a href="https://inert.netlify.app/"> Software Development Services </a>
