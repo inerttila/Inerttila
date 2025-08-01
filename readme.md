@@ -16,5 +16,4 @@
 
 <div align="center">
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Projects </b></h2>
-<br>
 </div>
