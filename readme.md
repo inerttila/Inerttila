@@ -15,13 +15,7 @@
 </div>
 
 <div align="center">
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Projects </b></h2>
-</div>
-
-<div align="center">
-<h2 id="-publications">
-  <b> Publications </b>
-</h2>
+<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Publications </b></h2>
 </div>
 
 <br>
@@ -30,13 +24,11 @@
 <tr>
 <td align="left">
 
-- <b>File Transfer Server</b>  
-  <a href="https://pypi.org/project/inert-transfer/" target="_blank">https://pypi.org/project/inert-transfer/</a>
+- <a href="https://pypi.org/project/inert-transfer/" target="_blank"><b>File Transfer Server</b></a>
 
   <br><br>
 
-- <b>PDF Report Builder</b>  
-  <a href="https://pdf-report-builder.netlify.app/" target="_blank">https://pdf-report-builder.netlify.app/</a>
+- <a href="https://pdf-report-builder.netlify.app/" target="_blank"><b>PDF Report Builder</b></a>
 
 </td>
 </tr>
