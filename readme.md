@@ -1,9 +1,8 @@
-<head>
-  <title>Inert Tila – Software Developer</title>
-  <meta name="description" content="Self-taught and best practices-oriented Software Developer | 3+ years of experience in front-end and back-end development, with expertise in HTML, CSS, JavaScript, React, Node.js, Python, and frameworks such as Django, FastAPI, Flask, and Odoo. Skilled in Docker and Linux for high-performance deployments. Hands-on experience in designing e-commerce solutions with Medusa, with a focus on SEO for enhanced performance. Always seeking new opportunities.
-">
-
-</head>
+<div align="center">
+<div style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden">
+  <h1>Inert Tila – Software Developer</h1>
+  <p>Self-taught and best practices-oriented software developer with 3+ years of experience across front-end and back-end development, working with HTML, CSS, JavaScript, React, Node.js, Python, and frameworks like Django, FastAPI, Flask, and Odoo. Skilled with Docker and Linux for high-performance deployments, including e-commerce solutions with Medusa and SEO-focused optimization.</p>
+</div>
 
 <div align="center">
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
