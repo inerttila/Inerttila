@@ -18,3 +18,22 @@
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects </b></h2>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://build-report.netlify.app/">
+          <img src="https://raw.githubusercontent.com/inerttila/Report-Builder/refs/heads/main/image.png" width="140">
+        </a>
+        <div><b>Report Builder</b></div>
+      </td>
+      <td>
+        <a href="https://pypi.org/project/inert-transfer/">
+          <img src="https://raw.githubusercontent.com/inerttila/File-Transfer-Server/refs/heads/master/static/media/scr1.png" width="140">
+        </a>
+        <div><b>File Transfer Server
+        </b></div>
+      </td>
+    </tr>
+  </table>
+</div>
