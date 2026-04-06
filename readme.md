@@ -35,7 +35,7 @@
       </td>
       <td>
         <a href="https://pypi.org/project/inert-transfer/">
-          <img src="https://raw.githubusercontent.com/inerttila/File-Transfer-Server/refs/heads/master/static/media/scr1.png" width="140">
+          <img src="https://raw.githubusercontent.com/inerttila/File-Transfer-Server/refs/heads/master/static/media/image.png" width="140">
         </a>
         <div><b>File Transfer Server
         </b></div>
